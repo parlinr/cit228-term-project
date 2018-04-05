@@ -72,23 +72,26 @@ ALTER TABLE tightEnd AUTO_INCREMENT=4000;
 ALTER TABLE defenseSpecialTeams AUTO_INCREMENT=5000;
 
 -- insert seed data 
-INSERT INTO quarterback ('lastName', 'firstName', 'year', 'week',
-'touchdowns','interceptions','yards') VALUES ();
+INSERT INTO quarterback (lastName, firstName, year, week,
+touchdowns,interceptions,yards) VALUES
 
-INSERT INTO runningBack ('lastName','firstName','year','week','yards','touchdowns')
-VALUES ();
 
-INSERT INTO wideReceiver ('lastName','firstName','year','week','receptions','yards','touchdowns')
-VALUES ();
 
-INSERT INTO tightEnd ('lastName','firstName','year','week','receptions','yards','touchdowns')
-VALUES ();
+INSERT INTO runningBack (lastName,firstName,year,week,yards,touchdowns)
+VALUES
 
-INSERT INTO defenseSpecialTeams ('team','year','week','sacks','interceptions','fumbleRecoveries',
-'safeties','blockedKicks','conversionOrExtraPointReturns','pointsAllowed','returnsForTouchdown')
+
+INSERT INTO wideReceiver (lastName,firstName,year,week,receptions,yards,touchdowns)
+VALUES 
+
+INSERT INTO tightEnd (lastName,firstName,year,week,receptions,yards,touchdowns)
+VALUES 
+
+INSERT INTO defenseSpecialTeams (team,year,week,sacks,interceptions,fumbleRecoveries,
+safeties,blockedKicks,conversionOrExtraPointReturns,pointsAllowed,returnsForTouchdown)
 VALUES ('New England Patriots','2017','13','4','1','0','0','0','0','3','0'),
 ('Minnesota Vikings','2017','13','0','0','0','0','0','0','9','0'),('Jacksonville Jaguars','2017','13','4',
-'2','0','0','0','10','0'),('Philadelphia Eagles','2017','13','2','0','0','0','0','0','24','0'),
+'2','0','0','0','0','10','0'),('Philadelphia Eagles','2017','13','2','0','0','0','0','0','24','0'),
 ('Minnesota Vikings','2017','14','2','1','0','0','0','0','31','0'),('Philadelphia Eagles','2017','14','2',
 '0','2','0','0','0','35','0'),('Jacksonville Jaguars','2017','14','2','3','0','0','0','0','24','0'),
 ('Minnesota Vikings','2017','15','3','2','0','0','0','0','7','1'),('Philadelphia Eagles','2017','15','1','1','0',
