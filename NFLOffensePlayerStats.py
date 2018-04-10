@@ -26,7 +26,7 @@ def get_player_position(p):
 
 #find the date of the game
 gameId = str(sys.argv[1])
-week_number = 13
+week_number = 14
 date_url = "http://www.espn.com/nfl/game?gameId=" + gameId
 date_page = urlopen(date_url)
 date_page_object = BeautifulSoup(date_page, "lxml")
@@ -155,20 +155,20 @@ home_receiving_stats = home_receiving_re.findall(test_file_text)
 
 
 passing = open("passing.txt","a+")
-for player in away_passing_stats:
+for player in home_passing_stats:
     record = "('" + player[2] + "','" + player[1] + "','2017','" + str(week_number) + "','" + player[7] + "','" + player[8] + "','" + player[5] + "'),"
     passing.write(record)
     passing.write("\n")
 passing.close()
 
 rushing = open("rushing.txt","a+")
-for player in away_rushing_stats:
+for player in home_rushing_stats:
     rushing.write("('" + player[2] + "','" + player[1] + "','2017','" + str(week_number) + "','" + player[4] + "','" + player[6] + "'),")
     rushing.write("\n")
 rushing.close()
 
 receiving = open("receiving.txt","a+")
-for player in away_receiving_stats:
+for player in home_receiving_stats:
     position = get_player_position(player)
     receiving.write("('" + player[2] + "','" + player[1] + "','2017','" + str(week_number) + "','" + player[3] + "','" + player[4] + "','" + player[6] + "')," + str(position)) 
     receiving.write("\n")

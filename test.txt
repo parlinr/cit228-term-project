@@ -1,0 +1,62 @@
+Passing -- Away<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/14881/russell-wilson" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Russell Wilson</span><span class="abbr">R.  Wilson</span></a></td><td class="c-att">17/31</td><td class="yds">271</td><td class="avg">8.7</td><td class="td">3</td><td class="int">3</td><td class="sacks">2-11</td><td class="qbr">51.7</td><td class="rtg">76.9</td></tr>
+
+Passing -- Away<tr class="highlight"><td class="name">TEAM</td><td class="c-att">17/31</td><td class="yds">260</td><td class="avg">8.7</td><td class="td">3</td><td class="int">3</td><td class="sacks">2-11</td><td class="qbr">--</td><td class="rtg">76.9</td></tr>
+
+Rushing -- Away<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/3025433/mike-davis" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Mike Davis</span><span class="abbr">M.  Davis</span></a></td><td class="car">15</td><td class="yds">66</td><td class="avg">4.4</td><td class="td">0</td><td class="long">21</td></tr>
+
+Rushing -- Away<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/14881/russell-wilson" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Russell Wilson</span><span class="abbr">R.  Wilson</span></a></td><td class="car">5</td><td class="yds">50</td><td class="avg">10.0</td><td class="td">0</td><td class="long">19</td></tr>
+
+Rushing -- Away<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/2572861/jd-mckissic" name="&amp;lpos=nfl:game:boxscore:playercard"><span>J.D. McKissic</span><span class="abbr">J.D. McKissic</span></a></td><td class="car">3</td><td class="yds">15</td><td class="avg">5.0</td><td class="td">0</td><td class="long">9</td></tr>
+
+Rushing -- Away<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/2577327/tyler-lockett" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Tyler Lockett</span><span class="abbr">T.  Lockett</span></a></td><td class="car">1</td><td class="yds">10</td><td class="avg">10.0</td><td class="td">0</td><td class="long">10</td></tr>
+
+Rushing -- Away<tr class="highlight"><td class="name">TEAM</td><td class="car">24</td><td class="yds">141</td><td class="avg">5.9</td><td class="td">0</td><td class="long">21</td></tr>
+
+Receiving -- Away<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/2577327/tyler-lockett" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Tyler Lockett</span><span class="abbr">T.  Lockett</span></a></td><td class="rec">4</td><td class="yds">90</td><td class="avg">22.5</td><td class="td">1</td><td class="long">74</td><td class="tgts">5</td></tr>
+
+Receiving -- Away<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/14221/doug-baldwin" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Doug Baldwin</span><span class="abbr">D.  Baldwin</span></a></td><td class="rec">3</td><td class="yds">78</td><td class="avg">26.0</td><td class="td">1</td><td class="long">43</td><td class="tgts">6</td></tr>
+
+Receiving -- Away<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/16781/paul-richardson" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Paul Richardson</span><span class="abbr">P.  Richardson</span></a></td><td class="rec">3</td><td class="yds">72</td><td class="avg">24.0</td><td class="td">1</td><td class="long">61</td><td class="tgts">7</td></tr>
+
+Receiving -- Away<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/2572861/jd-mckissic" name="&amp;lpos=nfl:game:boxscore:playercard"><span>J.D. McKissic</span><span class="abbr">J.D. McKissic</span></a></td><td class="rec">5</td><td class="yds">20</td><td class="avg">4.0</td><td class="td">0</td><td class="long">6</td><td class="tgts">5</td></tr>
+
+Receiving -- Away<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/16121/luke-willson" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Luke Willson</span><span class="abbr">L.  Willson</span></a></td><td class="rec">1</td><td class="yds">12</td><td class="avg">12.0</td><td class="td">0</td><td class="long">12</td><td class="tgts">1</td></tr>
+
+Receiving -- Away<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/13232/jimmy-graham" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Jimmy Graham</span><span class="abbr">J.  Graham</span></a></td><td class="rec">0</td><td class="yds">0</td><td class="avg">0.0</td><td class="td">0</td><td class="long">0</td><td class="tgts">2</td></tr>
+
+Receiving -- Away<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/2576399/nick-vannett" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Nick Vannett</span><span class="abbr">N.  Vannett</span></a></td><td class="rec">0</td><td class="yds">0</td><td class="avg">0.0</td><td class="td">0</td><td class="long">0</td><td class="tgts">1</td></tr>
+
+Receiving -- Away<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/3025433/mike-davis" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Mike Davis</span><span class="abbr">M.  Davis</span></a></td><td class="rec">1</td><td class="yds">-1</td><td class="avg">-1.0</td><td class="td">0</td><td class="long">-1</td><td class="tgts">2</td></tr>
+
+Receiving -- Away<tr class="highlight"><td class="name">TEAM</td><td class="rec">17</td><td class="yds">271</td><td class="avg">15.9</td><td class="td">3</td><td class="long">74</td><td class="tgts">26</td></tr>
+
+Passing -- Home<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/16724/blake-bortles" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Blake Bortles</span><span class="abbr">B.  Bortles</span></a></td><td class="c-att">18/27</td><td class="yds">268</td><td class="avg">9.9</td><td class="td">2</td><td class="int">0</td><td class="sacks">0-0</td><td class="qbr">77.2</td><td class="rtg">123.7</td></tr>
+
+Passing -- Home<tr class="highlight"><td class="name">TEAM</td><td class="c-att">18/27</td><td class="yds">268</td><td class="avg">9.9</td><td class="td">2</td><td class="int">0</td><td class="sacks">0-0</td><td class="qbr">--</td><td class="rtg">123.7</td></tr>
+
+Rushing -- Home<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/3115364/leonard-fournette" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Leonard Fournette</span><span class="abbr">L.  Fournette</span></a></td><td class="car">24</td><td class="yds">101</td><td class="avg">4.2</td><td class="td">1</td><td class="long">15</td></tr>
+
+Rushing -- Home<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/13587/chris-ivory" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Chris Ivory</span><span class="abbr">C.  Ivory</span></a></td><td class="car">6</td><td class="yds">48</td><td class="avg">8.0</td><td class="td">0</td><td class="long">34</td></tr>
+
+Rushing -- Home<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/2976516/tj-yeldon" name="&amp;lpos=nfl:game:boxscore:playercard"><span>T.J. Yeldon</span><span class="abbr">T.J. Yeldon</span></a></td><td class="car">2</td><td class="yds">9</td><td class="avg">4.5</td><td class="td">0</td><td class="long">6</td></tr>
+
+Rushing -- Home<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/16724/blake-bortles" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Blake Bortles</span><span class="abbr">B.  Bortles</span></a></td><td class="car">7</td><td class="yds">-2</td><td class="avg">-0.3</td><td class="td">0</td><td class="long">2</td></tr>
+
+Rushing -- Home<tr class="highlight"><td class="name">TEAM</td><td class="car">39</td><td class="yds">156</td><td class="avg">4.0</td><td class="td">1</td><td class="long">34</td></tr>
+
+Receiving -- Home<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/3071572/keelan-cole" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Keelan Cole</span><span class="abbr">K.  Cole</span></a></td><td class="rec">3</td><td class="yds">99</td><td class="avg">33.0</td><td class="td">1</td><td class="long">75</td><td class="tgts">3</td></tr>
+
+Receiving -- Home<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/3892889/dede-westbrook" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Dede Westbrook</span><span class="abbr">D.  Westbrook</span></a></td><td class="rec">5</td><td class="yds">81</td><td class="avg">16.2</td><td class="td">1</td><td class="long">29</td><td class="tgts">8</td></tr>
+
+Receiving -- Home<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/16787/marqise-lee" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Marqise Lee</span><span class="abbr">M.  Lee</span></a></td><td class="rec">5</td><td class="yds">65</td><td class="avg">13.0</td><td class="td">0</td><td class="long">18</td><td class="tgts">6</td></tr>
+
+Receiving -- Home<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/3115364/leonard-fournette" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Leonard Fournette</span><span class="abbr">L.  Fournette</span></a></td><td class="rec">4</td><td class="yds">18</td><td class="avg">4.5</td><td class="td">0</td><td class="long">8</td><td class="tgts">6</td></tr>
+
+Receiving -- Home<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/2512892/larry-pinkard" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Larry Pinkard</span><span class="abbr">L.  Pinkard</span></a></td><td class="rec">1</td><td class="yds">5</td><td class="avg">5.0</td><td class="td">0</td><td class="long">5</td><td class="tgts">1</td></tr>
+
+Receiving -- Home<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/9614/marcedes-lewis" name="&amp;lpos=nfl:game:boxscore:playercard"><span>Marcedes Lewis</span><span class="abbr">M.  Lewis</span></a></td><td class="rec">0</td><td class="yds">0</td><td class="avg">0.0</td><td class="td">0</td><td class="long">0</td><td class="tgts">2</td></tr>
+
+Receiving -- Home<tr><td class="name"><a href="http://www.espn.com/nfl/player/_/id/2508079/james-oshaughnessy" name="&amp;lpos=nfl:game:boxscore:playercard"><span>James O'Shaughnessy</span><span class="abbr">J.  O'Shaughnessy</span></a></td><td class="rec">0</td><td class="yds">0</td><td class="avg">0.0</td><td class="td">0</td><td class="long">0</td><td class="tgts">1</td></tr>
+
+Receiving -- Home<tr class="highlight"><td class="name">TEAM</td><td class="rec">18</td><td class="yds">268</td><td class="avg">14.9</td><td class="td">2</td><td class="long">75</td><td class="tgts">24</td></tr>
+

@@ -1,0 +1,1 @@
+<div class="player-bio"><div class="line-divider"></div><ul class="general-info"><li class="first">Tight End</li></ul><ul class="player-metadata floatleft"><li><span>Born</span>May 19, 1984 in Los Alamitos, CA</li><li><span>Drafted</span>  2006: 1st Rnd, 28th by JAX</li><li><span>Experience</span>13th season</li><li><span>College</span>UCLA</li></ul></div>

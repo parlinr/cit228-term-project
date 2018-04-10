@@ -1,0 +1,4 @@
+python NFLOffensePlayerStats.py 400951652
+rem python NFLOffensePlayerStats.py 400951689
+rem python NFLOffensePlayerStats.py 400951696
+rem python NFLOffensePlayerStats.py
