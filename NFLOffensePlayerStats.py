@@ -26,7 +26,7 @@ def get_player_position(p):
 
 #find the date of the game
 gameId = str(sys.argv[1])
-week_number = 14
+week_number = 17
 date_url = "http://www.espn.com/nfl/game?gameId=" + gameId
 date_page = urlopen(date_url)
 date_page_object = BeautifulSoup(date_page, "lxml")
@@ -144,13 +144,6 @@ away_receiving_stats = away_receiving_re.findall(test_file_text)
 home_passing_stats = home_passing_re.findall(test_file_text)
 home_rushing_stats = home_rushing_re.findall(test_file_text)
 home_receiving_stats = home_receiving_re.findall(test_file_text)
-
-#ship the data to the database
-#connection = pypyodbc.connect('Driver={SQL Server};'
-#							  'Server=tcp:parlinrtest.database.windows.net,1433;'
-#							  'Database=test;'
-#							  'uid=testadmin;'
-#							  'pwd=Whatthehell1'
 
 
 
